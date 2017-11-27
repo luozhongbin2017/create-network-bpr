@@ -1,3 +1,8 @@
+cb_2016_us_county_500k/*
+cache/*
+data/*
+!data/bay_area_bpr.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
