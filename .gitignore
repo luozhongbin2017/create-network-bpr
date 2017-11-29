@@ -2,6 +2,7 @@ cb_2016_us_county_500k/*
 cache/*
 data/*
 !data/bay_area_bpr.csv
+!data/pm_peak*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
